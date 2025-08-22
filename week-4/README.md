@@ -25,6 +25,6 @@ Enter the filename when prompted.
 ```
 The script will create a new file named modified_<original_filename> with the modified content.
 
-##⚡ Notes
+⚡ Notes
 - You can customize the modify_content() function to apply different transformations to the file content.
 - The script ensures safe file operations with proper error handling.
